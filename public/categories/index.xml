@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ricardoillescas.com</title>
+    <link>http://ricardoillescas.com/categories/</link>
+    <description>Recent content in Categories on ricardoillescas.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>hello@ricardoillescas.com (Ricardo Illescas)</managingEditor>
+    <webMaster>hello@ricardoillescas.com (Ricardo Illescas)</webMaster>
+    
+	<atom:link href="http://ricardoillescas.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>http://ricardoillescas.com/categories/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <author>hello@ricardoillescas.com (Ricardo Illescas)</author>
+      <guid>http://ricardoillescas.com/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
