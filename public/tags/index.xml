@@ -1,24 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ricardoillescas.com</title>
-    <link>http://modified-leaf-202607.appspot.com/tags/</link>
-    <description>Recent content in Tags on ricardoillescas.com</description>
+    <title>Tags on Terminal</title>
+    <link>https://riktothepast.github.io/tags/</link>
+    <description>Recent content in Tags on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>hello@ricardoillescas.com (Ricardo Illescas)</managingEditor>
-    <webMaster>hello@ricardoillescas.com (Ricardo Illescas)</webMaster>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
-    
-	<atom:link href="http://modified-leaf-202607.appspot.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://riktothepast.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gamedev</title>
+      <link>https://riktothepast.github.io/tags/gamedev/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/tags/gamedev/</guid>
+      <description></description>
+      <content></content>
+    </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://modified-leaf-202607.appspot.com/tags/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <author>hello@ricardoillescas.com (Ricardo Illescas)</author>
-      <guid>http://modified-leaf-202607.appspot.com/tags/projects/</guid>
+      <title>shader</title>
+      <link>https://riktothepast.github.io/tags/shader/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/tags/shader/</guid>
       <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>shadergraph</title>
+      <link>https://riktothepast.github.io/tags/shadergraph/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/tags/shadergraph/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>unity</title>
+      <link>https://riktothepast.github.io/tags/unity/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/tags/unity/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://riktothepast.github.io/tags/test/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/tags/test/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>https://riktothepast.github.io/tags/test2/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/tags/test2/</guid>
+      <description></description>
+      <content></content>
     </item>
     
   </channel>

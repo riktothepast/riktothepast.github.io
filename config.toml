@@ -1,67 +1,75 @@
-baseURL = "http://modified-leaf-202607.appspot.com/"
-DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
-title = "ricardoillescas.com"
-theme = "beautifulhugo"
-metaDataFormat = "yaml"
-pygmentsStyle = "trac"
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-#pygmentsUseClassic = true
-#pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+baseURL = "https://riktothepast.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "terminal"
+paginate = 5
 
-[Params]
-  homeTitle = "Ricardo Illescas" # Set a different text for the header on the home page
-  subtitle = "Software Engineer + Game Developer"
-  #logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
-  dateFormat = "2 January, 2006"
-  commit = false
-  rss = true
-  comments = true
-  readingTime = true
-  useHLJS = true
-  socialShare = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "pink"
 
-[Author]
-  name = "Ricardo Illescas"
-  website = "ricardoillescas.com"
-  email = "hello@ricardoillescas.com"
-  facebook = "rik.illescas"
-  github = "riktothepast"
-  bitbucket = "riktothepast"
-  twitter = "riktothepast"
-  linkedin = "rik-illescas-00995814b"
-  spotify = "riktothepast"
-  itchio = "riktothepast"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
 
-[[menu.main]]
-    name = "Blog"
-    url = "blog"
-    weight = 1
+  # show selector to switch language
+  showLanguageSelector = false
 
-[[menu.main]]
-    name = "About"
-    url = "/page/about/"
-    weight = 3
+  # set theme to full screen width
+  fullWidthTheme = false
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+  # center theme with default width
+  centerTheme = true
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = true
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # set all headings to their default size (depending on browser settings)
+  # it's set to `true` by default
+  # oneHeadingSize = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = ""
+  site = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Terminal"
+    subtitle = "A simple, retro theme for Hugo"
+    owner = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Home"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
