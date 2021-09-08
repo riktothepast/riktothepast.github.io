@@ -4,6 +4,7 @@ date = "2020-09-07"
 author = "Rik"
 description = "Creando un shader para convertir sprites a escala de grises"
 tags = ["shader", "unity", "shadergraph", "gamedev"]
+draft = true
 +++
 
 ![Hana Painting](https://media3.giphy.com/media/YPPhbGWf0KjV7VbWeT/giphy.gif)

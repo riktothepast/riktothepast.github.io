@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://riktothepast.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "terminal"
@@ -61,7 +61,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Home"
       logoHomeLink = "/"
 
     [languages.en.menu]
