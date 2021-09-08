@@ -16,7 +16,7 @@ paginate = 5
   showMenuItems = 2
 
   # show selector to switch language
-  showLanguageSelector = false
+  showLanguageSelector = true
 
   # set theme to full screen width
   fullWidthTheme = false
@@ -46,6 +46,7 @@ paginate = 5
 
 [languages]
   [languages.en]
+    contentDir = "content/english"
     languageName = "English"
     title = "Terminal"
     subtitle = "A simple, retro theme for Hugo"
@@ -73,3 +74,32 @@ paginate = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+   [languages.es]
+    contentDir = "content/spanish"
+    languageName = "Spanish"
+    title = "Terminal"
+    subtitle = "A simple, retro theme for Hugo"
+    owner = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Ver más"
+    readMore = "Leer más"
+    readOtherPosts = "Leer otras entradas"
+    newerPosts = "Entradas recientes"
+    olderPosts = "Entradas antiguas"
+    missingContentMessage = "Pagina no encontrada..."
+    missingBackButtonLabel = "Volver a la pagina principal"
+
+    [languages.es.params.logo]
+      logoText = "Inicio"
+      logoHomeLink = "/es"
+
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        identifier = "acerca de..."
+        name = "Acerca de"
+        url = "/es/about"
+      [[languages.es.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/es/showcase"

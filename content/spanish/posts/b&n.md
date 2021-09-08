@@ -1,6 +1,17 @@
 +++
-title = "Hello!"
+title = "Blanco y Negro"
+date = "2020-09-07"
+author = "Rik"
+description = "Creando un shader para convertir sprites a escala de grises"
+tags = ["shader", "unity", "shadergraph", "gamedev"]
+draft = true
 +++
+
+![Hana Painting](/img/HanaB&W.gif)
+>"Hana" es un juego procedural ambientado en un templo japones infestado de Yokai.
+
+En una de sus tantas iteraciones, queria mostrar el estado de una habitacion como infestado o liberado. Un cuarto infestado no tendria color, pues los Yokai que habitan en el drenan la energia y se representa de esta forma.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
 

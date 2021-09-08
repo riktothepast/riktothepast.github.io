@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>https://riktothepast.github.io/es/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://riktothepast.github.io/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blanco y Negro</title>
+      <link>https://riktothepast.github.io/es/posts/bn/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/es/posts/bn/</guid>
+      <description>&amp;ldquo;Hana&amp;rdquo; es un juego procedural ambientado en un templo japones infestado de Yokai.
+ En una de sus tantas iteraciones, queria mostrar el estado de una habitacion como infestado o liberado. Un cuarto infestado no tendria color, pues los Yokai que habitan en el drenan la energia y se representa de esta forma.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis.</description>
+      <content>&lt;p&gt;&lt;img src=&#34;https://riktothepast.github.io/static/img/HanaB&amp;amp;W.gif&#34; alt=&#34;Hana Painting&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Hana&amp;rdquo; es un juego procedural ambientado en un templo japones infestado de Yokai.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;En una de sus tantas iteraciones, queria mostrar el estado de una habitacion como infestado o liberado. Un cuarto infestado no tendria color, pues los Yokai que habitan en el drenan la energia y se representa de esta forma.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.&lt;/li&gt;
+&lt;li&gt;Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.&lt;/li&gt;
+&lt;li&gt;Aenean facilisis ut ipsum condimentum ultrices.&lt;/li&gt;
+&lt;li&gt;Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Hola!</title>
+      <link>https://riktothepast.github.io/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/es/about/</guid>
+      <description>Bienvenidos a mi sitio!
+Acerca de mi Me llamo Rik, y sobreviví el Y2K, soy un ingeniero de sowtware de Guatemala, me gusta desarrollar juegos, el ciclismo, armar modelos a escala y comer pizza.</description>
+      <content>&lt;p&gt;Bienvenidos a mi sitio!&lt;/p&gt;
+&lt;h1 id=&#34;acerca-de-mi&#34;&gt;Acerca de mi&lt;/h1&gt;
+&lt;p&gt;Me llamo Rik, y sobreviví el Y2K, soy un ingeniero de sowtware de Guatemala, me gusta desarrollar juegos, el ciclismo, armar modelos a escala y comer pizza.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://riktothepast.github.io/es/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/es/showcase/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
