@@ -1,1 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://riktothepast.github.io/categories/</loc><xhtml:link rel="alternate" hreflang="es" href="https://riktothepast.github.io/es/categories/"/><xhtml:link rel="alternate" hreflang="en" href="https://riktothepast.github.io/categories/"/></url><url><loc>https://riktothepast.github.io/about/</loc><xhtml:link rel="alternate" hreflang="es" href="https://riktothepast.github.io/es/about/"/><xhtml:link rel="alternate" hreflang="en" href="https://riktothepast.github.io/about/"/></url><url><loc>https://riktothepast.github.io/showcase/</loc><xhtml:link rel="alternate" hreflang="es" href="https://riktothepast.github.io/es/showcase/"/><xhtml:link rel="alternate" hreflang="en" href="https://riktothepast.github.io/showcase/"/></url><url><loc>https://riktothepast.github.io/tags/</loc><xhtml:link rel="alternate" hreflang="es" href="https://riktothepast.github.io/es/tags/"/><xhtml:link rel="alternate" hreflang="en" href="https://riktothepast.github.io/tags/"/></url><url><loc>https://riktothepast.github.io/</loc><xhtml:link rel="alternate" hreflang="es" href="https://riktothepast.github.io/es/"/><xhtml:link rel="alternate" hreflang="en" href="https://riktothepast.github.io/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://riktothepast.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://riktothepast.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://riktothepast.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://riktothepast.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://riktothepast.github.io/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://riktothepast.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://riktothepast.github.io/showcase/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://riktothepast.github.io/es/showcase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://riktothepast.github.io/showcase/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://riktothepast.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://riktothepast.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://riktothepast.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://riktothepast.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://riktothepast.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://riktothepast.github.io/"
+                />
+  </url>
+  
+</urlset>

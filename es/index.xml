@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal</title><link>https://riktothepast.github.io/es/</link><description>Recent content on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://riktothepast.github.io/es/index.xml" rel="self" type="application/rss+xml"/><item><title>Hola!</title><link>https://riktothepast.github.io/es/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://riktothepast.github.io/es/about/</guid><description>Bienvenidos a mi sitio!
-Acerca de mi Me llamo Rik, y sobreviví el Y2K, soy un ingeniero de sowtware de Guatemala, me gusta desarrollar juegos, el ciclismo, armar modelos a escala y comer pizza.</description><content>&lt;p>Bienvenidos a mi sitio!&lt;/p>
-&lt;h1 id="acerca-de-mi">Acerca de mi&lt;/h1>
-&lt;p>Me llamo Rik, y sobreviví el Y2K, soy un ingeniero de sowtware de Guatemala, me gusta desarrollar juegos, el ciclismo, armar modelos a escala y comer pizza.&lt;/p></content></item><item><title>Showcase</title><link>https://riktothepast.github.io/es/showcase/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://riktothepast.github.io/es/showcase/</guid><description/><content/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>https://riktothepast.github.io/es/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://riktothepast.github.io/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hola!</title>
+      <link>https://riktothepast.github.io/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/es/about/</guid>
+      <description>Bienvenidos a mi sitio!
+Acerca de mi Me llamo Rik, y sobreviví el Y2K, soy un ingeniero de sowtware de Guatemala, me gusta desarrollar juegos, el ciclismo, armar modelos a escala y comer pizza.</description>
+      <content>&lt;p&gt;Bienvenidos a mi sitio!&lt;/p&gt;
+&lt;h1 id=&#34;acerca-de-mi&#34;&gt;Acerca de mi&lt;/h1&gt;
+&lt;p&gt;Me llamo Rik, y sobreviví el Y2K, soy un ingeniero de sowtware de Guatemala, me gusta desarrollar juegos, el ciclismo, armar modelos a escala y comer pizza.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://riktothepast.github.io/es/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riktothepast.github.io/es/showcase/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
